@@ -1,9 +1,7 @@
 # 🎓 منصة المبدع التعليمية | Al-Mobde Educational Platform
 
 <p align="center">
-  <img src="!<img width="1024" height="1536" alt="ChatGPT Image Feb 5, 2026, 11_00_37 AM" src="https://github.com/user-attachments/assets/2c78f2fb-2d1d-4008-b569-19a942eeac9d" />
-)
-ا" width="100%" alt="Al-Mobde App Overview">
+  <img src="https://github.com/user-attachments/assets/2c78f2fb-2d1d-4008-b569-19a942eeac9d" width="80%" alt="Al-Mobde App Overview">
   <br>
   <em>واجهة متكاملة تجمع بين سهولة الاستخدام وقوة التحكم</em>
 </p>
@@ -22,34 +20,46 @@
 * **المكتبة الرقمية:** قسم خاص لرفع الملفات بصيغ (PDF / Word / Books) لسهولة المذاكرة والمراجعة.
 * **الاختبارات الإلكترونية:** نظام امتحانات تفاعلي يتيح للأستاذ تقييم الطلاب إلكترونياً ومتابعة مستواهم.
 
+---
+
 ### 🔐 نظام الحماية والأمان المتقدم (Security)
 * **دخول مخصص:** نظام حسابات (User & Password) لكل طالب لضمان الخصوصية.
-* **حماية الأجهزة (Device Binding):** الكود أو الحساب يعمل على جهاز واحد فقط في نفس الوقت؛ مما يمنع مشاركة الحسابات بين أكثر من مستخدم.
-* **حماية المحتوى:** تفعيل تقنيات الحماية ضد تصوير الشاشة (Screen Recording) أو أخذ لقطات (Screenshots) لحماية المادة العلمية من التسريب قدر الإمكان.
+* **حماية الأجهزة (Device Binding):** الكود أو الحساب يعمل على جهاز واحد فقط في نفس الوقت.
+* **حماية المحتوى:** تقنيات الحماية ضد تصوير الشاشة أو التسجيل.
+
+---
 
 ### 👨‍🏫 لوحة تحكم الأستاذ (Admin Control)
-* **إدارة شاملة:** تحكم كامل في إضافة، تعديل، أو حذف المحتوى (فيديوهات، ملفات، امتحانات).
-* **رقابة الطلاب:** صلاحية كاملة للأستاذ للتحكم في حسابات الطلاب، تفعيلها، أو حظرها.
+* **إدارة شاملة:** إضافة، تعديل، أو حذف المحتوى.
+* **رقابة الطلاب:** التحكم في حسابات الطلاب وتفعيلها أو حظرها.
+
+---
 
 ### 🎨 واجهة المستخدم (UI/UX)
-* **بساطة وجمال:** واجهة عصرية وسهلة التنقل تضمن عدم تشتت الطالب وتركز على المادة العلمية.
-* **أداء مستقر:** استجابة سريعة جداً على مختلف هواتف أندرويد.
+* **بساطة وجمال:** تصميم عصري وسهل الاستخدام.
+* **أداء مستقر:** سرعة واستجابة عالية على أجهزة أندرويد المختلفة.
 
 ---
 
 ## 🛠️ البناء التقني | Tech Stack
 * **Platform:** Android (Flutter/Dart) 🚀
 * **Database:** Firebase Realtime / Firestore 🔥
-* **Storage:** Firebase Storage (لرفع الفيديوهات والمستندات)
-* **Security:** Device ID Verification & Secure Flag implementation
+* **Storage:** Firebase Storage
+* **Security:** Device ID Verification & Secure Flag
 
 ---
 
 ## 📩 تواصل معي | Contact
 <p align="left">
-<a href="https://github.com/saeedemad929-hash"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="[رابط_لينكد_إن_الخاص_بك](https://www.linkedin.com/in/emad-saeed-18a606395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/saeedemad929-hash">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/emad-saeed-18a606395">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </p>
 
 ---
+
 <p align="center">تم التطوير بكل ❤️ بواسطة <b>سعيد عماد</b> © 2026</p>
