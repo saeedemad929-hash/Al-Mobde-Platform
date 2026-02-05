@@ -1,7 +1,8 @@
 # 🎓 منصة المبدع التعليمية | Al-Mobde Educational Platform
 
 <p align="center">
-  <img src="![WhatsApp Image 2026-02-04 at 9 21 22 PM](https://github.com/user-attachments/assets/5f375b87-8e9c-44e1-902a-860c7bb6dd95)
+  <img src="!<img width="1024" height="1536" alt="ChatGPT Image Feb 5, 2026, 11_00_37 AM" src="https://github.com/user-attachments/assets/2c78f2fb-2d1d-4008-b569-19a942eeac9d" />
+)
 ا" width="100%" alt="Al-Mobde App Overview">
   <br>
   <em>واجهة متكاملة تجمع بين سهولة الاستخدام وقوة التحكم</em>
